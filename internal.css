@@ -1,0 +1,87 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #071013;
+}
+
+.topnav a {
+    float: left;
+    color: #EAEAEA;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #EAEAEA;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #071013;
+    color: white;
+}
+
+body {
+    background-color: #86BBD8;
+    font-size: 125%;
+    color: #EAEAEA;
+    
+    font-family: 'Noto Sans', serif;
+}
+
+html {
+}
+
+h1 {
+    background-color: #336699;
+}
+
+h1 a:hover:not(main) {
+    height: 150%;
+}
+
+.mainbody {
+    max-width: 50%;
+    padding: 15px 0px;
+}
+
+.mainbody2 {
+    max-width: 70%;
+    padding: 15px 0px;
+}
+
+.mainbody3 {
+    max-width: 50%;
+    padding: 15px 0px;
+}
+img {
+    height: 300px;
+    color: #BDEDE0;
+    border:6px solid #336699;
+    border-width: 20px;
+}
+
+.sketchfab-embed-wrapper p {
+    font-size: 13px;
+    font-weight: normal;
+    margin: 5px;
+    color: #EAEAEA;
+}
+
+.sketchfab-embed-wrapper a {
+    font-weight: bold;
+    color: #EAEAEA;
+   
+}
